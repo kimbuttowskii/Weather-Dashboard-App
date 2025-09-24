@@ -50,5 +50,5 @@ To run the Weather Dashboard, you’ll need:
 ## 🏗️ System Design
 
 ### UML Diagram
-> *<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/5788043f-14bc-4638-8322-2336d05d8b05" />*  
+> *<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/5788043f-14bc-4638-8322-2336d05d8b05" />*  
 
